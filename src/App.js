@@ -1,14 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './Home';
+import NaviBar from './NaviBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <NaviBar/>
         <Home/>
-      </header>
     </div>
   );
 }

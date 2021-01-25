@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mr-auto {
+  /* margin-left: 58%; */
+  font-size: 18px;
+}
+
+#header {
+  background: url("./images/proj1.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
