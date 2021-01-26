@@ -36,4 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.header {
+  background: url("./images/proj1.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  min-height: 450px;
+}
+
+.footer-card {
+  border-top: 6px solid rgb(151, 222, 255);
+  width: auto;
+  border-bottom: 6px solid rgb(42, 98, 182);
+}
+
+.about {
+  color: #4b4a4a;
+  border-bottom: 3px solid rgb(151, 222, 255);
+}
 
