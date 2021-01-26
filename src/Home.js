@@ -22,9 +22,9 @@ const Home = () => {
                 </Card.Body>
                 </Accordion.Collapse>
             </Card>
-        </Accordion>
-    <AboutMe/>
-    <Projects/>
+        </Accordion><br/>
+    <AboutMe/><br/>
+    <Projects/><br/>
     <Contact/>
     <Footer/>
         </>
