@@ -20,7 +20,7 @@ const AboutMe = () => {
                         I build projects on my own time where I focus on making them useful for real-world situations and expandable so that I can constantly maintain them. 
                         This way, as my skills grow, so do my projects.
                     </p>
-
+                    <a href="https://docs.google.com/document/d/1yJGRuDhLW-mOsPDwK2OG3Z3KJOmDNOxJ7l319snWUWI/edit?usp=sharing" target="_blank"> My Resumé </a><br/>
                 </Col>
             </Row>
         </Container>
