@@ -1,5 +1,7 @@
 // who I am
-import {Col, Image, Card, CardGroup, Row, Container} from 'react-bootstrap'
+import {Col, Image, Row, Container} from 'react-bootstrap'
+import { AiOutlineFileDone } from 'react-icons/ai';
+
 
 const AboutMe = () => {
     return ( 
@@ -20,7 +22,7 @@ const AboutMe = () => {
                         I build projects on my own time where I focus on making them useful for real-world situations and expandable so that I can constantly maintain them. 
                         This way, as my skills grow, so do my projects.
                     </p>
-                    <a href="https://docs.google.com/document/d/1yJGRuDhLW-mOsPDwK2OG3Z3KJOmDNOxJ7l319snWUWI/edit?usp=sharing" target="_blank"> My Resumé </a><br/>
+                    <a href="https://docs.google.com/document/d/1yJGRuDhLW-mOsPDwK2OG3Z3KJOmDNOxJ7l319snWUWI/edit?usp=sharing" target="_blank"> <AiOutlineFileDone size={30} color='black'/>My Resumé </a><br/>
                 </Col>
             </Row>
         </Container>
