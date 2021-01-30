@@ -3,6 +3,10 @@ import {Col, Media, Image, Card, CardGroup, Row, Container} from 'react-bootstra
 //link projects and include screenshots
 // add 1 project image left next right and so on
 
+
+
+//styling: 
+// display projects in a carrousel
 const Projects = () => {
     return ( 
         <>
