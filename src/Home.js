@@ -18,7 +18,7 @@ const Home = () => {
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
                 <Card.Body>
-                    This is my portfolio page where you will ba able to learn a little bit about me, see the projects I've done, and have access to my contact information.
+                    This is my portfolio web-page where you will ba able to learn a little bit about me, see the projects I've made, and contact me.
                 </Card.Body>
                 </Accordion.Collapse>
             </Card>

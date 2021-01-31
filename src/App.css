@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+
+*{
+  font-family: 'Zilla Slab', serif;
+  }
+  
 .App {
   text-align: center;
 }
@@ -69,4 +75,9 @@
   
 #title{
   border-bottom: 2px solid rgb(59, 59, 59);
+}
+
+.projects{
+  border-top: 5px solid rgb(151, 222, 255);
+  border-bottom: 5px solid rgb(151, 222, 255);
 }
