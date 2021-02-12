@@ -81,3 +81,31 @@
   border-top: 5px solid rgb(151, 222, 255);
   border-bottom: 5px solid rgb(151, 222, 255);
 }
+
+.pantry{
+  background: url("./images/pantry.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.taco{
+  background: url("./images/taco.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.accent{
+  background: url("./images/accent.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.percentage{
+  background: url("./images/percentage.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

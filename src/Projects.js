@@ -16,6 +16,7 @@ const Projects = () => {
         <Jumbotron>
             <h2 id="title">Percentage</h2><br/>
                     <Image id="image" src="https://scontent.ftpa1-1.fna.fbcdn.net/v/t1.0-9/142820257_1783993805103902_4409359767272723086_o.jpg?_nc_cat=105&ccb=2&_nc_sid=730e14&_nc_ohc=jysTiwEChQUAX9TylYn&_nc_ht=scontent.ftpa1-1.fna&oh=6bda6b5fd6327a8ab4eeb35a8e1ba09c&oe=6036FF64" thumbnail fluid />
+                    {/* <Image id="image" src="./images/proj1.jpg" thumbnail fluid /> */}
                     <h5>
                         React-Redux application based on keeping track of expenses and savings
                     </h5>
