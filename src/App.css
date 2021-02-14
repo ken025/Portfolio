@@ -84,28 +84,40 @@
 
 .pantry{
   background: url("./images/pantry.jpg");
-  background-attachment: fixed;
+  border: 4px solid rgba(140, 162, 172, 0.906);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  min-height: 450px;
 }
 
 .taco{
   background: url("./images/taco.jpg");
-  background-attachment: fixed;
+  border: 4px solid rgba(140, 162, 172, 0.906);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  min-height: 450px;
 }
 
 .accent{
   background: url("./images/accent.jpg");
-  background-attachment: fixed;
+  border: 4px solid rgba(140, 162, 172, 0.906);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  min-height: 450px;
 }
 
 .percentage{
   background: url("./images/percentage.jpg");
-  background-attachment: fixed;
+  border: 5px solid rgba(140, 162, 172, 0.906);
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  min-height: 450px;
 }
