@@ -125,3 +125,8 @@
   min-height: 450px;
   max-width:100%;
 }
+
+.abt{
+  background-color:  rgba(192, 209, 216, 0.233);
+  border-radius: 10px;
+}
