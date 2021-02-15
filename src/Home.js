@@ -1,6 +1,5 @@
-import {  Jumbotron, Container, Accordion, Card, Button} from 'react-bootstrap'
+import {  Accordion, Card, Button} from 'react-bootstrap'
 import AboutMe from './AboutMe'
-import Contact from './ContactMe'
 import Projects from './Projects'
 
 import Footer from './Footer';
@@ -25,7 +24,6 @@ const Home = () => {
         </Accordion><br/>
     <AboutMe/><br/>
     <Projects/><br/>
-    <Contact/>
     <Footer/>
         </>
      );

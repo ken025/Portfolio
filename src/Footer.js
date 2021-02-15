@@ -7,6 +7,8 @@ import { HiOutlineMail } from "react-icons/hi";
 
 const Footer = () => {
     return ( 
+        <>
+        <h1>Contact me</h1>
         <CardGroup className="footer-card ">
                 <Card>
                     <a href="https://www.instagram.com/ken_manuel/" target="_blank"> <FiInstagram size={50} color='black'/></a>
@@ -24,6 +26,7 @@ const Footer = () => {
                     <a href="https://dev.to/ken025" target="_blank"><FaDev size={50} color='black'/></a>
                 </Card>
             </CardGroup>
+            </>
      );
 }
  
