@@ -90,6 +90,7 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   min-height: 450px;
+  max-width:100%;
 }
 
 .taco{
@@ -100,6 +101,7 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   min-height: 450px;
+  max-width:100%;
 }
 
 .accent{
@@ -110,14 +112,16 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   min-height: 450px;
+  max-width:100%;
 }
 
 .percentage{
   background: url("./images/percentage.jpg");
   border: 5px solid rgba(140, 162, 172, 0.906);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover; 
   padding-top: 3rem;
   padding-bottom: 3rem;
   min-height: 450px;
+  max-width:100%;
 }
