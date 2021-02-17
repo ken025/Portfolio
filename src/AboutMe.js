@@ -22,7 +22,7 @@ const AboutMe = () => {
                         I build projects on my own time where I focus on making them useful for real-world situations and expandable so that I can constantly maintain them. 
                         This way, as my skills grow, so do my projects.
                     </h5><br/>
-                    <Button href="https://docs.google.com/document/d/19mDTJ5vVL6T5XCwa1vrD6e7IXR9-XkRfF_EirVpKzBk/edit?usp=sharing" target="_blank"> <AiOutlineFileDone size={30}/>My Resumé </Button><br/>
+                    <button href="https://docs.google.com/document/d/19mDTJ5vVL6T5XCwa1vrD6e7IXR9-XkRfF_EirVpKzBk/edit?usp=sharing" target="_blank"> <AiOutlineFileDone background-color='black' size={30}/>My Resumé </button><br/>
                 </Col>
             </Row>
         </Container>

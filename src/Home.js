@@ -1,4 +1,4 @@
-import {  Accordion, Card, Button} from 'react-bootstrap'
+import {  Button, Accordion, Card } from 'react-bootstrap'
 import AboutMe from './AboutMe'
 import Projects from './Projects'
 
@@ -12,7 +12,7 @@ const Home = () => {
             <Card>
                 <Card.Header>
                 <Accordion.Toggle as={Button} variant="link" eventKey="0">
-                    Welcome!
+                   <Button>Welcome!</Button> 
                 </Accordion.Toggle>
                 </Card.Header>
                 <Accordion.Collapse eventKey="0">
